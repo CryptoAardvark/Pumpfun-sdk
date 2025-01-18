@@ -1,4 +1,4 @@
-# PumpFun Rust SDK
+#  Rust SDK FOR PumpFun
 
 A comprehensive Rust SDK for seamless interaction with the PumpFun Solana program. This SDK provides a robust set of tools and interfaces to integrate PumpFun functionality into your applications.
 
